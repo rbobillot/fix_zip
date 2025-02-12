@@ -45,7 +45,7 @@ To help you on your task here are some crucial resources:
 
 - [Official ZIP documentation](https://www.x-ways.net/winhex/kb/ff/ZIP.txt)
 - [About the XOR cipher](https://en.wikipedia.org/wiki/XOR_cipher)
-- Some useful Unix commands: `xxd`, `zipdetails`
+- Some useful Unix commands: `zip`, `unzip`, `zipdetails`, `xxd`
 
 ## Development
 
